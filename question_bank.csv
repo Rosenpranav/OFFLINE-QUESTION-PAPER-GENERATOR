@@ -1,0 +1,521 @@
+question_text,unit_id,marks,question_type,co_id,bloom_level
+"The fundamental processing unit of a neural network is called a _______.",1,0.5,Fill_Blank,CO1,K1
+"A perceptron can solve only ______ separable problems.",1,0.5,Fill_Blank,CO1,K1
+"The activation function used in a perceptron is the______function.",1,0.5,Fill_Blank,CO1,K1
+"Neurons compute a______ sum of input signals.",1,0.5,Fill_Blank,CO1,K1
+"Feedforward neural networks allow information to flow only in one direction. Write True or False",1,0.5,True_False,CO1,K1
+"The algorithm used to train multi-layer neural networks is called_______.",1,0.5,Fill_Blank,CO1,K1
+"In backpropagation, errors are propagated ______ through the network.",1,0.5,Fill_Blank,CO1,K1
+"The primary role of an activation function is to introduce _______.",1,0.5,Fill_Blank,CO1,K1
+"The loss function measures the ______ between predicted output and actual output.",1,0.5,Fill_Blank,CO1,K1
+"The learning rate controls the ______ of weight updates.",1,0.5,Fill_Blank,CO1,K1
+"Backpropagation minimizes the loss function. Write True or False.",1,0.5,True_False,CO1,K1
+"A single-layer perceptron has no ______ layer.",1,0.5,Fill_Blank,CO1,K1
+"Bias in a neuron helps in shifting the ______ activation function.",1,0.5,Fill_Blank,CO1,K1
+"Gradient descent updates weights in the direction of the ______ gradient.",1,0.5,Fill_Blank,CO1,K1
+"The output of a neuron is obtained after applying the ______ function.",1,0.5,Fill_Blank,CO1,K1
+"Feedforward networks do not contain ______ connections.",1,0.5,Fill_Blank,CO1,K1
+"The XOR problem cannot be solved using a ______ perceptron.",1,0.5,Fill_Blank,CO1,K1
+"The objective of training a neural network is to minimize the ______ function.",1,0.5,Fill_Blank,CO1,K1
+"The symbol commonly used to denote learning rate is ______.",1,0.5,Fill_Blank,CO1,K1
+"A neuron computes a weighted sum followed by ______.",1,0.5,Fill_Blank,CO1,K1
+"Softmax activation is used for ______ classification problems.",1,0.5,Fill_Blank,CO1,K1
+"Backpropagation uses the ______ rule for weight updates.",1,0.5,Fill_Blank,CO1,K1
+"Hidden layers enable neural networks to learn ______ relationships.",1,0.5,Fill_Blank,CO1,K1
+"The step function outputs only ______ values.",1,0.5,Fill_Blank,CO1,K1
+"The derivative of the loss function is used to compute the ______.",1,0.5,Fill_Blank,CO1,K1
+"Training stops when the loss reaches ______.",1,0.5,Fill_Blank,CO1,K1
+"The output layer produces the ______ result.",1,0.5,Fill_Blank,CO1,K1
+"Forward propagation computes outputs layer by layer. Write True or False.",1,0.5,True_False,CO1,K1
+"Weight initialization affects training ______.",1,0.5,Fill_Blank,CO1,K1
+"Activation functions must be ______ to apply backpropagation.",1,0.5,Fill_Blank,CO1,K1
+"List the components of an artificial neuron.",1,2,Descriptive,CO1,K2
+"Explain the role of weights in a neural network.",1,2,Descriptive,CO1,K2
+"What is the purpose of bias in a neuron?",1,2,Descriptive,CO1,K2
+"Explain why activation functions are required in neural networks.",1,2,Descriptive,CO1,K2
+"Differentiate between linear and non-linear activation functions.",1,2,Descriptive,CO1,K2
+"What is the role of learning rate in training?",1,2,Descriptive,CO1,K2
+"Explain the concept of loss function.",1,2,Descriptive,CO1,K2
+"Why is XOR not solvable by a single-layer perceptron?",1,2,Descriptive,CO1,K2
+"Define forward propagation in neural networks.",1,2,Descriptive,CO1,K2
+"Define backpropagation and list out any one significance",1,2,Descriptive,CO1,K2
+"Explain the significance of hidden layers.",1,2,Descriptive,CO1,K2
+"Differentiate between supervised and unsupervised learning.",1,2,Descriptive,CO1,K2
+"List out the stopping criteria in neural network training.",1,2,Descriptive,CO1,K2
+"Why is weight initialization important?",1,2,Descriptive,CO1,K2
+"Explain the effect of too high learning rate.",1,2,Descriptive,CO1,K2
+"Explain the working of a perceptron with a neat diagram.",1,10,Long Answer,CO1,K3
+"Describe the backpropagation algorithm step by step with an example.",1,10,Long Answer,CO1,K3
+"Explain gradient descent and its role in training neural networks.",1,10,Long Answer,CO1,K3
+"Compare single-layer and multi-layer perceptrons.",1,10,Long Answer,CO1,K3
+"Discuss the limitations of perceptron learning algorithm.",1,10,Long Answer,CO1,K3
+"Explain the importance of activation functions with examples.",1,10,Long Answer,CO1,K3
+"Describe the training process of a feedforward neural network.",1,10,Long Answer,CO1,K3
+"Explain the role of loss functions in neural networks.",1,10,Long Answer,CO1,K3
+"Discuss convergence issues in gradient descent and the ways to overcome.",1,10,Long Answer,CO1,K3
+"Explain why deep neural networks outperform shallow networks.",1,10,Long Answer,CO1,K3
+"Explain the architecture of a multi-layer perceptron with training process and list out its application.",1,14,Essay,CO1,K4
+"Discuss the backpropagation algorithm with mathematical formulation with an example.",1,14,Essay,CO1,K4
+"Explain the various gradient descent variants used in neural networks and expalin why it is needed.",1,14,Essay,CO1,K4
+"Analyze the role of activation functions in deep learning.",1,14,Essay,CO1,K4
+"Explain how neural networks learn non-linear decision boundaries.",1,14,Essay,CO1,K4
+"Discuss challenges in training neural networks and how to improve training.",1,14,Essay,CO1,K4
+"Explain the effect of learning rate on convergence and its application.",1,14,Essay,CO1,K4
+"Compare feedforward and recurrent neural networks and highlight the limitations.",1,14,Essay,CO1,K4
+"Discuss overfitting in neural networks and remedies.",1,14,Essay,CO1,K4
+"Explain the complete training lifecycle of a neural network.",1,14,Essay,CO1,K4
+"Describe weight update mechanisms in multi-layer networks.",1,14,Essay,CO1,K4
+"Explain the XOR problem using perceptron geometry.",1,14,Essay,CO1,K4
+"Discuss the importance of differentiability in activation functions.",1,14,Essay,CO1,K4
+"Explain early stopping and convergence criteria in a neural network.",1,14,Essay,CO1,K4
+"Analyze the bias–variance tradeoff in neural networks and ways to have very good model.",1,14,Essay,CO1,K4
+"Explain the mathematical intuition behind backpropagation with a realtime example.",1,14,Essay,CO1,K4
+"Discuss the advantages of multi-layer neural networks. and how it is better than single layer neural networks.",1,14,Essay,CO1,K4
+"Explain how loss functions guide learning.",1,14,Essay,CO1,K4
+"Describe neural network training from scratch.",1,14,Essay,CO1,K4
+"Explain how neural networks generalize from data.",1,14,Essay,CO1,K4
+"Gradient descent updates weights in the direction of the ______ of the loss function.",2,0.5,Fill_Blank,CO2,K1
+"The vanishing gradient problem occurs mainly in ______ neural networks.",2,0.5,Fill_Blank,CO2,K1
+"ReLU activation outputs zero for ______ inputs.",2,0.5,Fill_Blank,CO2,K1
+"Dropout is a technique used to prevent ______.",2,0.5,Fill_Blank,CO2,K1
+"L1 regularization adds ______ penalty to the loss function.",2,0.5,Fill_Blank,CO2,K1
+"L2 regularization is also known as ______ decay.",2,0.5,Fill_Blank,CO2,K1
+"Momentum helps accelerate gradient descent by adding a fraction of ______ update.",2,0.5,Fill_Blank,CO2,K1
+"Nesterov’s Accelerated Gradient uses ______ lookahead.",2,0.5,Fill_Blank,CO2,K1
+"Batch Normalization normalizes layer inputs during ______.",2,0.5,Fill_Blank,CO2,K1
+"The exploding gradient problem causes gradients to become very ______.",2,0.5,Fill_Blank,CO2,K1
+"Regularization improves the ______ ability of a model.",2,0.5,Fill_Blank,CO2,K1
+"Dropout randomly removes ______ during training.",2,0.5,Fill_Blank,CO2,K1
+"Sigmoid activation suffers from ______ gradient problem.",2,0.5,Fill_Blank,CO2,K1
+"ReLU helps mitigate the vanishing gradient problem. Write True or False",2,0.5,True_False,CO2,K1
+"Batch Normalization reduces internal covariate shift. Write True or False.",2,0.5,True_False,CO2,K1
+"Gradient descent always guarantees global minimum. Write True or False.",2,0.5,True_False,CO2,K1
+"Momentum reduces oscillations in gradient descent. Write True or False.",2,0.5,True_False,CO2,K1
+"Dropout is applied during inference time. Write True or False.",2,0.5,True_False,CO2,K1
+"L1 regularization can produce sparse weights. Write True or False.",2,0.5,True_False,CO2,K1
+"Exploding gradients are common in very deep networks. Write True or False.",2,0.5,True_False,CO2,K1
+"Adam optimizer combines momentum and ______.",2,0.5,Fill_Blank,CO2,K1
+"Mini-batch gradient descent updates weights using ______ samples.",2,0.5,Fill_Blank,CO2,K1
+"Regularization terms are added to the ______ function.",2,0.5,Fill_Blank,CO2,K1
+"The purpose of normalization is to improve training ______.",2,0.5,Fill_Blank,CO2,K1
+"Dropout acts as an ensemble of ______ networks.",2,0.5,Fill_Blank,CO2,K1
+"The learning rate that is too high may cause ______.",2,0.5,Fill_Blank,CO2,K1
+"Batch Normalization allows higher ______ rates.",2,0.5,Fill_Blank,CO2,K1
+"Vanishing gradients slow down learning in ______ layers.",2,0.5,Fill_Blank,CO2,K1
+"Weight initialization affects gradient ______.",2,0.5,Fill_Blank,CO2,K1
+"Regularization reduces model ______.",2,0.5,Fill_Blank,CO2,K1
+"Explain the term gradient descent.",2,2,Descriptive,CO2,K2
+"What is the vanishing gradient problem with an example?",2,2,Descriptive,CO2,K2
+"Explain the exploding gradient problem.",2,2,Descriptive,CO2,K2
+"How does ReLU help in deep neural networks?",2,2,Descriptive,CO2,K2
+"Explain the purpose of Dropout Regularization.",2,2,Descriptive,CO2,K2
+"Differentiate between L1 and L2 regularization.",2,2,Descriptive,CO2,K2
+"Define momentum in gradient descent?",2,2,Descriptive,CO2,K2
+"Write a very short note on Batch Normalization.",2,2,Descriptive,CO2,K2
+"Why is weight initialization important in neural network?",2,2,Descriptive,CO2,K2
+"Explain the effect of too small learning rate with an illustration",2,2,Descriptive,CO2,K2
+"Define overfitting in neural networks with an example.",2,2,Descriptive,CO2,K2
+"How does regularization improve generalization?",2,2,Descriptive,CO2,K2
+"Explain internal covariate shift and give an example.",2,2,Descriptive,CO2,K2
+"What is Nesterov’s Accelerated Gradient?",2,2,Descriptive,CO2,K2
+"Explain why deep networks suffer from vanishing gradients.",2,2,Descriptive,CO2,K2
+"Explain gradient descent and its variants.",2,10,Long Answer,CO2,K3
+"Describe the vanishing gradient problem and its solutions.",2,10,Long Answer,CO2,K3
+"Explain the exploding gradient problem with remedies and its disadvantages.",2,10,Long Answer,CO2,K3
+"Discuss ReLU activation and its variants.",2,10,Long Answer,CO2,K3
+"Explain Dropout regularization in detail.",2,10,Long Answer,CO2,K3
+"Describe Batch Normalization with algorithmic steps.",2,10,Long Answer,CO2,K3
+"Compare L1 and L2 regularization techniques.",2,10,Long Answer,CO2,K3
+"Explain momentum-based optimization methods.",2,10,Long Answer,CO2,K3
+"Discuss the impact of learning rate on convergence.",2,10,Long Answer,CO2,K3
+"Explain different weight initialization strategies.",2,10,Long Answer,CO2,K3
+"Explain gradient descent optimization techniques used in deep learning.",2,14,Essay,CO2,K4
+"Discuss the vanishing gradient problem with mathematical intuition.",2,14,Essay,CO2,K4
+"Analyze the exploding gradient problem and prevention methods.",2,14,Essay,CO2,K4
+"Explain ReLU and advanced activation functions in deep networks.",2,14,Essay,CO2,K4
+"Discuss Dropout as a regularization technique with examples.",2,14,Essay,CO2,K4
+"Explain Batch Normalization and its effect on training speed.",2,14,Essay,CO2,K4
+"Compare different optimization algorithms used in neural networks.",2,14,Essay,CO2,K4
+"Explain the role of momentum in accelerating convergence.",2,14,Essay,CO2,K4
+"Discuss L1 and L2 regularization in detail and explain where it can be applicable.",2,14,Essay,CO2,K4
+"Explain the importance of proper weight initialization in neural network.",2,14,Essay,CO2,K4
+"Analyze the effect of learning rate on stability and convergence in a neural network.",2,14,Essay,CO2,K4
+"Discuss heuristics used for faster training of deep networks with an example.",2,14,Essay,CO2,K4
+"Explain overfitting and methods to prevent it and give mathematical intutions.",2,14,Essay,CO2,K4
+"Describe normalization techniques used in deep learning and its limitations.",2,14,Essay,CO2,K4
+"Explain how regularization improves model generalization.",2,14,Essay,CO2,K4
+"Compare and contrast Batch Gradient Descent, Stochastic Gradient Descent, and Mini-batch Gradient Descent.",2,14,Essay,CO2,K4
+"Explain the role of optimization in neural network training.",2,14,Essay,CO2,K4
+"Discuss challenges in training very deep neural networks.",2,14,Essay,CO2,K4
+"Explain the bias–variance tradeoff in deep learning with a flowchart.",2,14,Essay,CO2,K4
+"Explain how modern optimizers overcome limitations of vanilla gradient descent.",2,14,Essay,CO2,K4
+"The primary function of convolutional layers is to extract ______ from input data.",3,0.5,Fill_Blank,CO3,K1
+"A convolutional neural network is particularly effective for ______ data.",3,0.5,Fill_Blank,CO3,K1
+"Pooling layers reduce the ______ dimensions of feature maps.",3,0.5,Fill_Blank,CO3,K1
+"Max pooling selects the ______ value from the pooling window.",3,0.5,Fill_Blank,CO3,K1
+"Average pooling computes the ______ of values in the pooling window.",3,0.5,Fill_Blank,CO3,K1
+"ReLU is commonly used as an activation function in CNNs. Write True or False.",3,0.5,True_False,CO3,K1
+"The filter used in convolution is also called a ______.",3,0.5,Fill_Blank,CO3,K1
+"Stride refers to the ______ movement of the convolution filter.",3,0.5,Fill_Blank,CO3,K1
+"Padding is used to ______ the spatial size of feature maps.",3,0.5,Fill_Blank,CO3,K1
+"A CNN uses shared weights in convolutional layers. Write True or False.",3,0.5,True_False,CO3,K1
+"Pooling layers contain trainable parameters. Write True or False.",3,0.5,True_False,CO3,K1
+"Convolution captures ______ features from the input.",3,0.5,Fill_Blank,CO3,K1
+"Feature maps are the output of ______ layers.",3,0.5,Fill_Blank,CO3,K1
+"In CNNs, deeper layers capture more ______ features.",3,0.5,Fill_Blank,CO3,K1
+"The receptive field represents the ______ region of the input.",3,0.5,Fill_Blank,CO3,K1
+"Zero padding adds ______ around the input image.",3,0.5,Fill_Blank,CO3,K1
+"CNNs reduce the number of parameters using ______ sharing.",3,0.5,Fill_Blank,CO3,K1
+"Pooling improves ______ invariance.",3,0.5,Fill_Blank,CO3,K1
+"Flattening converts feature maps into a ______ vector.",3,0.5,Fill_Blank,CO3,K1
+"The output of convolution depends on filter size, stride, and ______.",3,0.5,Fill_Blank,CO3,K1
+"CNNs are widely used in ______ recognition tasks.",3,0.5,Fill_Blank,CO3,K1
+"A 1×1 convolution is mainly used for ______ reduction.",3,0.5,Fill_Blank,CO3,K1
+"Pooling helps reduce ______ cost.",3,0.5,Fill_Blank,CO3,K1
+"Convolutional layers preserve the ______ structure of input.",3,0.5,Fill_Blank,CO3,K1
+"Transfer learning uses ______ CNN models.",3,0.5,Fill_Blank,CO3,K1
+"Fine-tuning adjusts the ______ layers of a pre-trained network.",3,0.5,Fill_Blank,CO3,K1
+"CNNs are invariant to small ______ changes.",3,0.5,Fill_Blank,CO3,K1
+"The depth of a CNN refers to the number of ______.",3,0.5,Fill_Blank,CO3,K1
+"Pooling layers help control ______.",3,0.5,Fill_Blank,CO3,K1
+"CNNs require less ______ compared to fully connected networks.",3,0.5,Fill_Blank,CO3,K1
+"Explain the role of convolution in CNNs.",3,2,Descriptive,CO3,K2
+"What is the purpose of pooling layers?",3,2,Descriptive,CO3,K2
+"Differentiate between max pooling and average pooling.",3,2,Descriptive,CO3,K2
+"Explain the concept of stride in convolution.",3,2,Descriptive,CO3,K2
+"What is padding and why is it used?",3,2,Descriptive,CO3,K2
+"Explain weight sharing in CNNs.",3,2,Descriptive,CO3,K2
+"What is a feature map?",3,2,Descriptive,CO3,K2
+"Explain the importance of ReLU in CNNs.",3,2,Descriptive,CO3,K2
+"Differentiate between convolutional and fully connected layers.",3,2,Descriptive,CO3,K2
+"What is the receptive field in CNNs?",3,2,Descriptive,CO3,K2
+"Explain hierarchical feature extraction in CNNs.",3,2,Descriptive,CO3,K2
+"What is transfer learning in CNNs?",3,2,Descriptive,CO3,K2
+"Explain fine-tuning in transfer learning.",3,2,Descriptive,CO3,K2
+"Why are CNNs suitable for image data?",3,2,Descriptive,CO3,K2
+"Explain flattening operation in CNNs.",3,2,Descriptive,CO3,K2
+"Explain the working of a convolutional neural network with a neat diagram.",3,10,Long Answer,CO3,K3
+"Describe the architecture of a typical CNN.",3,10,Long Answer,CO3,K3
+"Discuss the role of pooling layers and their impact on performance.",3,10,Long Answer,CO3,K3
+"Explain the effect of stride and padding with examples.",3,10,Long Answer,CO3,K3
+"Compare different pooling techniques used in CNNs.",3,10,Long Answer,CO3,K3
+"Explain transfer learning and its advantages in CNNs.",3,10,Long Answer,CO3,K3
+"Discuss hierarchical feature learning in CNNs.",3,10,Long Answer,CO3,K3
+"Explain the importance of weight sharing in CNNs.",3,10,Long Answer,CO3,K3
+"Describe the role of convolutional filters in feature extraction.",3,10,Long Answer,CO3,K3
+"Explain how CNNs reduce computational complexity.",3,10,Long Answer,CO3,K3
+"Explain the complete architecture and training process of a convolutional neural network.",3,14,Essay,CO3,K4
+"Discuss convolution, pooling, and activation layers in CNNs.",3,14,Essay,CO3,K4
+"Analyze the effect of stride, padding, and filter size on CNN performance.",3,14,Essay,CO3,K4
+"Explain hierarchical feature extraction in deep CNNs.",3,14,Essay,CO3,K4
+"Discuss transfer learning using pre-trained CNN models.",3,14,Essay,CO3,K4
+"Explain the advantages and limitations of convolutional neural networks.",3,14,Essay,CO3,K4
+"Compare CNNs with traditional machine learning approaches for image tasks.",3,14,Essay,CO3,K4
+"Explain the mathematical operation of convolution in CNNs.",3,14,Essay,CO3,K4
+"Discuss the role of pooling layers in achieving spatial invariance.",3,14,Essay,CO3,K4
+"Explain the importance of ReLU and other activation functions in CNNs.",3,14,Essay,CO3,K4
+"Analyze how CNNs handle high-dimensional image data.",3,14,Essay,CO3,K4
+"Discuss fine-tuning strategies in transfer learning.",3,14,Essay,CO3,K4
+"Explain how CNNs generalize well on unseen image data.",3,14,Essay,CO3,K4
+"Describe the impact of depth on CNN performance.",3,14,Essay,CO3,K4
+"Explain data augmentation techniques used with CNNs.",3,14,Essay,CO3,K4
+"Discuss overfitting issues in CNNs and mitigation methods.",3,14,Essay,CO3,K4
+"Explain the role of CNNs in object detection.",3,14,Essay,CO3,K4
+"Compare shallow CNNs and deep CNN architectures.",3,14,Essay,CO3,K4
+"Discuss computational challenges in training CNNs.",3,14,Essay,CO3,K4
+"Explain why CNNs outperform fully connected networks for vision tasks.",3,14,Essay,CO3,K4
+"The full form of RNN is _______.",4,0.5,Fill_Blank,CO4,K1
+"Recurrent Neural Networks are designed for ______ data.",4,0.5,Fill_Blank,CO4,K1
+"RNNs maintain information using ______ connections.",4,0.5,Fill_Blank,CO4,K1
+"The vanishing gradient problem is severe in ______ networks.",4,0.5,Fill_Blank,CO4,K1
+"LSTM stands for ______ Short-Term Memory.",4,0.5,Fill_Blank,CO4,K1
+"LSTM networks use gates to control ______ flow.",4,0.5,Fill_Blank,CO4,K1
+"The gate responsible for forgetting information in LSTM is the ______ gate.",4,0.5,Fill_Blank,CO4,K1
+"The output gate in LSTM controls the ______ of the cell state.",4,0.5,Fill_Blank,CO4,K1
+"GRU stands for ______ Recurrent Unit.",4,0.5,Fill_Blank,CO4,K1
+"GRUs have fewer gates than LSTMs.",4,0.5,True_False,CO4,K1
+"Autoencoders are typically trained using ______ learning.",4,0.5,Fill_Blank,CO4,K1
+"An autoencoder consists of an encoder and a ______.",4,0.5,Fill_Blank,CO4,K1
+"Denoising autoencoders are trained to reconstruct ______ inputs.",4,0.5,Fill_Blank,CO4,K1
+"Variational Autoencoders introduce ______ into the latent space.",4,0.5,Fill_Blank,CO4,K1
+"GAN stands for ______ Adversarial Network.",4,0.5,Fill_Blank,CO4,K1
+"A GAN consists of a generator and a ______.",4,0.5,Fill_Blank,CO4,K1
+"The generator in GANs tries to ______ the discriminator.",4,0.5,Fill_Blank,CO4,K1
+"The discriminator outputs a probability indicating ______.",4,0.5,Fill_Blank,CO4,K1
+"GANs are an example of ______ models.",4,0.5,Fill_Blank,CO4,K1
+"Encoder–Decoder architecture is widely used in ______ tasks.",4,0.5,Fill_Blank,CO4,K1
+"Sequence-to-sequence models are commonly built using ______ networks.",4,0.5,Fill_Blank,CO4,K1
+"LSTMs help overcome the ______ gradient problem.",4,0.5,Fill_Blank,CO4,K1
+"RNNs share parameters across ______ steps.",4,0.5,Fill_Blank,CO4,K1
+"The hidden state in RNN acts as a ______.",4,0.5,Fill_Blank,CO4,K1
+"Autoencoders aim to minimize ______ error.",4,0.5,Fill_Blank,CO4,K1
+"GAN training is formulated as a ______ game.",4,0.5,Fill_Blank,CO4,K1
+"The latent space represents a ______ representation of data.",4,0.5,Fill_Blank,CO4,K1
+"GRUs combine the forget and input gates into a ______ gate.",4,0.5,Fill_Blank,CO4,K1
+"VAEs generate new data by sampling from a ______ distribution.",4,0.5,Fill_Blank,CO4,K1
+"RNNs are widely used in ______ modeling tasks.",4,0.5,Fill_Blank,CO4,K1
+"Explain the working principle of Recurrent Neural Networks.",4,2,Descriptive,CO4,K2
+"What is the vanishing gradient problem in RNNs?",4,2,Descriptive,CO4,K2
+"Explain the role of hidden state in RNNs.",4,2,Descriptive,CO4,K2
+"Differentiate between RNN and LSTM.",4,2,Descriptive,CO4,K2
+"Explain the function of gates in LSTM.",4,2,Descriptive,CO4,K2
+"What is a GRU and how is it different from LSTM?",4,2,Descriptive,CO4,K2
+"Explain the concept of Autoencoders.",4,2,Descriptive,CO4,K2
+"Differentiate between Autoencoders and Variational Autoencoders.",4,2,Descriptive,CO4,K2
+"What is the role of the encoder in Encoder–Decoder models?",4,2,Descriptive,CO4,K2
+"Explain the working of the generator in GANs.",4,2,Descriptive,CO4,K2
+"Explain the role of discriminator in GANs.",4,2,Descriptive,CO4,K2
+"What is latent space in generative models?",4,2,Descriptive,CO4,K2
+"Explain denoising autoencoders.",4,2,Descriptive,CO4,K2
+"Why are LSTMs preferred over vanilla RNNs?",4,2,Descriptive,CO4,K2
+"Explain sequence-to-sequence learning.",4,2,Descriptive,CO4,K2
+"Explain the architecture and working of Recurrent Neural Networks.",4,10,Long Answer,CO4,K3
+"Describe LSTM cell architecture with neat diagram.",4,10,Long Answer,CO4,K3
+"Compare LSTM and GRU architectures.",4,10,Long Answer,CO4,K3
+"Explain the vanishing gradient problem in RNNs and its solutions.",4,10,Long Answer,CO4,K3
+"Describe the working of Autoencoders with applications.",4,10,Long Answer,CO4,K3
+"Explain Variational Autoencoders with mathematical intuition.",4,10,Long Answer,CO4,K3
+"Describe the architecture and training process of GANs.",4,10,Long Answer,CO4,K3
+"Explain Encoder–Decoder architecture with examples.",4,10,Long Answer,CO4,K3
+"Discuss applications of RNNs and LSTMs.",4,10,Long Answer,CO4,K3
+"Explain challenges involved in training GANs.",4,10,Long Answer,CO4,K3
+"Explain RNN architecture, training, and limitations in detail.",4,14,Essay,CO4,K4
+"Discuss LSTM networks with detailed cell operations.",4,14,Essay,CO4,K4
+"Analyze the differences between RNN, LSTM, and GRU.",4,14,Essay,CO4,K4
+"Explain Autoencoders and their variants with applications.",4,14,Essay,CO4,K4
+"Discuss Variational Autoencoders and their advantages over standard autoencoders.",4,14,Essay,CO4,K4
+"Explain GAN architecture and adversarial training mechanism.",4,14,Essay,CO4,K4
+"Discuss challenges in training GANs and possible solutions.",4,14,Essay,CO4,K4
+"Explain Encoder–Decoder models with applications in NLP.",4,14,Essay,CO4,K4
+"Analyze the vanishing gradient problem in recurrent networks.",4,14,Essay,CO4,K4
+"Explain sequence modeling using RNNs and LSTMs.",4,14,Essay,CO4,K4
+"Discuss the importance of gating mechanisms in LSTM.",4,14,Essay,CO4,K4
+"Explain the mathematical formulation of LSTM networks.",4,14,Essay,CO4,K4
+"Compare Autoencoders and GANs as generative models.",4,14,Essay,CO4,K4
+"Explain how VAEs generate new data samples.",4,14,Essay,CO4,K4
+"Discuss real-world applications of GANs.",4,14,Essay,CO4,K4
+"Analyze the role of latent space in generative models.",4,14,Essay,CO4,K4
+"Explain RNN backpropagation through time (BPTT).",4,14,Essay,CO4,K4
+"Discuss limitations of recurrent neural networks.",4,14,Essay,CO4,K4
+"Explain attention mechanism as an extension to RNNs.",4,14,Essay,CO4,K4
+"Discuss future trends in sequence modeling architectures.",4,14,Essay,CO4,K4
+"The process of dividing an image into multiple regions is called ______.",5,0.5,Fill_Blank,CO5,K1
+"Image classification assigns a single ______ to an image.",5,0.5,Fill_Blank,CO5,K1
+"Object detection identifies both ______ and ______ of objects.",5,0.5,Fill_Blank,CO5,K1
+"YOLO stands for ______ Only Look Once.",5,0.5,Fill_Blank,CO5,K1
+"Semantic segmentation assigns a ______ to each pixel.",5,0.5,Fill_Blank,CO5,K1
+"Instance segmentation differentiates between ______ objects of the same class.",5,0.5,Fill_Blank,CO5,K1
+"Image captioning generates ______ descriptions for images.",5,0.5,Fill_Blank,CO5,K1
+"Attention mechanisms help models focus on ______ parts of input.",5,0.5,Fill_Blank,CO5,K1
+"Named Entity Recognition is used to identify ______ in text.",5,0.5,Fill_Blank,CO5,K1
+"Sentiment analysis determines the ______ of a text.",5,0.5,Fill_Blank,CO5,K1
+"YOLO is a ______-stage object detector.",5,0.5,Fill_Blank,CO5,K1
+"Region-based CNNs use ______ proposals.",5,0.5,Fill_Blank,CO5,K1
+"Semantic segmentation does not distinguish object instances. Write True or False.",5,0.5,True_False,CO5,K1
+"Object detection outputs bounding boxes. Write True or False.",5,0.5,True_False,CO5,K1
+"Image captioning typically uses CNN and ______ models.",5,0.5,Fill_Blank,CO5,K1
+"Video-to-text models capture ______ information.",5,0.5,Fill_Blank,CO5,K1
+"NER is an important task in ______ language processing.",5,0.5,Fill_Blank,CO5,K1
+"Parsing analyzes the ______ structure of sentences.",5,0.5,Fill_Blank,CO5,K1
+"Opinion mining is another name for ______ analysis.",5,0.5,Fill_Blank,CO5,K1
+"Recursive Neural Networks are suitable for ______ structures.",5,0.5,Fill_Blank,CO5,K1
+"Sentence classification assigns labels to ______.",5,0.5,Fill_Blank,CO5,K1
+"Attention improves long-range ______ modeling.",5,0.5,Fill_Blank,CO5,K1
+"Transformers rely heavily on ______ mechanisms.",5,0.5,Fill_Blank,CO5,K1
+"Object detection is more complex than image classification. Write True or False.",5,0.5,True_False,CO5,K1
+"Semantic segmentation provides pixel-level output. Write True or False.",5,0.5,True_False,CO5,K1
+"NER systems often use BIO ______.",5,0.5,Fill_Blank,CO5,K1
+"Dialogue systems require ______ modeling.",5,0.5,Fill_Blank,CO5,K1
+"YOLO predicts bounding boxes using a ______ grid.",5,0.5,Fill_Blank,CO5,K1
+"Image captioning combines vision and ______ tasks.",5,0.5,Fill_Blank,CO5,K1
+"Attention weights sum to ______.",5,0.5,Fill_Blank,CO5,K1
+"Explain the concept of object detection.",5,2,Descriptive,CO5,K2
+"Differentiate between image classification and object detection.",5,2,Descriptive,CO5,K2
+"Explain semantic segmentation with an example.",5,2,Descriptive,CO5,K2
+"Differentiate between semantic and instance segmentation.",5,2,Descriptive,CO5,K2
+"What is image captioning?",5,2,Descriptive,CO5,K2
+"Explain the role of attention in computer vision.",5,2,Descriptive,CO5,K2
+"Describe Named Entity Recognition.",5,2,Descriptive,CO5,K2
+"What is sentiment analysis?",5,2,Descriptive,CO5,K2
+"Explain syntactic parsing.",5,2,Descriptive,CO5,K2
+"Explain semantic parsing.",5,2,Descriptive,CO5,K2
+"Explain sentence classification.",5,2,Descriptive,CO5,K2
+"What is video-to-text generation?",5,2,Descriptive,CO5,K2
+"Explain the role of RNNs in NLP tasks.",5,2,Descriptive,CO5,K2
+"Why is attention important in NLP models?",5,2,Descriptive,CO5,K2
+"Explain opinion mining.",5,2,Descriptive,CO5,K2
+"Explain object detection using YOLO architecture.",5,10,Long Answer,CO5,K3
+"Discuss semantic and instance segmentation techniques.",5,10,Long Answer,CO5,K3
+"Explain automatic image captioning with architecture.",5,10,Long Answer,CO5,K3
+"Describe video-to-text generation using deep learning models.",5,10,Long Answer,CO5,K3
+"Explain attention mechanisms in computer vision.",5,10,Long Answer,CO5,K3
+"Discuss Named Entity Recognition using deep learning.",5,10,Long Answer,CO5,K3
+"Explain sentiment analysis using neural networks.",5,10,Long Answer,CO5,K3
+"Describe sentence classification using CNN and RNN.",5,10,Long Answer,CO5,K3
+"Explain parsing techniques used in NLP.",5,10,Long Answer,CO5,K3
+"Discuss dialogue generation using LSTM networks.",5,10,Long Answer,CO5,K3
+"Explain object detection, segmentation, and image classification in detail.",5,14,Essay,CO5,K4
+"Discuss YOLO architecture, training, and applications.",5,14,Essay,CO5,K4
+"Explain semantic and instance segmentation with use cases.",5,14,Essay,CO5,K4
+"Describe automatic image captioning models with diagrams.",5,14,Essay,CO5,K4
+"Explain video-to-text generation and its challenges.",5,14,Essay,CO5,K4
+"Discuss attention mechanisms in NLP and computer vision.",5,14,Essay,CO5,K4
+"Explain Named Entity Recognition techniques and applications.",5,14,Essay,CO5,K4
+"Discuss sentiment analysis approaches using deep learning.",5,14,Essay,CO5,K4
+"Explain syntactic and semantic parsing in NLP.",5,14,Essay,CO5,K4
+"Describe sentence classification using deep learning models.",5,14,Essay,CO5,K4
+"Discuss the role of deep learning in computer vision applications.",5,14,Essay,CO5,K4
+"Explain dialogue generation systems using neural networks.",5,14,Essay,CO5,K4
+"Analyze challenges in object detection systems.",5,14,Essay,CO5,K4
+"Explain the importance of attention-based models.",5,14,Essay,CO5,K4
+"Discuss NLP tasks such as NER, sentiment analysis, and parsing.",5,14,Essay,CO5,K4
+"Explain multimodal learning with vision and language.",5,14,Essay,CO5,K4
+"Compare traditional and deep learning approaches in NLP.",5,14,Essay,CO5,K4
+"Discuss real-world applications of computer vision.",5,14,Essay,CO5,K4
+"Explain evaluation metrics for object detection and segmentation.",5,14,Essay,CO5,K4
+"Analyze future trends in vision and NLP systems.",5,14,Essay,CO5,K4
+"What is the basic processing unit of a neural network? (a) Layer (b) Neuron (c) Weight (d) Bias",1,0.5,MCQ,CO1,K1
+"Which problem cannot be solved by a single-layer perceptron? (a) AND (b) OR (c) XOR (d) NAND",1,0.5,MCQ,CO1,K1
+"Which activation function is used in a perceptron? (a) Sigmoid (b) ReLU (c) Step (d) Tanh",1,0.5,MCQ,CO1,K1
+"In a feedforward neural network, data flows (a) cyclically (b) backward only (c) forward only (d) randomly",1,0.5,MCQ,CO1,K1
+"Which algorithm is used to train multi-layer neural networks? (a) Hebbian (b) Backpropagation (c) K-Means (d) PCA",1,0.5,MCQ,CO1,K1
+"The role of bias in a neuron is to (a) increase learning rate (b) shift activation function (c) normalize input (d) reduce loss",1,0.5,MCQ,CO1,K1
+"Which component introduces non-linearity in a neural network? (a) Weight (b) Bias (c) Activation function (d) Input",1,0.5,MCQ,CO1,K1
+"The output of a neuron is computed using (a) summation only (b) weighted sum + activation (c) normalization (d) convolution",1,0.5,MCQ,CO1,K1
+"What does the loss function measure? (a) Accuracy (b) Error (c) Gradient (d) Weight",1,0.5,MCQ,CO1,K1
+"Which parameter controls the step size during training? (a) Epoch (b) Momentum (c) Learning rate (d) Bias",1,0.5,MCQ,CO1,K1
+"Backpropagation propagates error in which direction? (a) Forward (b) Backward (c) Random (d) Circular",1,0.5,MCQ,CO1,K1
+"A neural network without hidden layers is called (a) Deep network (b) MLP (c) Single-layer perceptron (d) CNN",1,0.5,MCQ,CO1,K1
+"Which function outputs values between 0 and 1? (a) ReLU (b) Tanh (c) Sigmoid (d) Linear",1,0.5,MCQ,CO1,K1
+"Which condition is required for backpropagation? (a) Binary output (b) Differentiable activation (c) Discrete weights (d) Linear model",1,0.5,MCQ,CO1,K2
+"The main goal of neural network training is to (a) maximize weights (b) minimize loss (c) increase layers (d) randomize bias",1,0.5,MCQ,CO1,K2
+"Gradient descent updates weights in the direction of (a) maximum loss (b) minimum gradient (c) negative gradient (d) random vector",2,0.5,MCQ,CO2,K1
+"Which problem slows learning in deep networks? (a) Overfitting (b) Vanishing gradient (c) Underfitting (d) Normalization",2,0.5,MCQ,CO2,K1
+"Which activation helps reduce vanishing gradient? (a) Sigmoid (b) Tanh (c) ReLU (d) Step",2,0.5,MCQ,CO2,K1
+"Dropout is mainly used to (a) speed training (b) reduce overfitting (c) normalize data (d) increase depth",2,0.5,MCQ,CO2,K1
+"L2 regularization is also called (a) Lasso (b) Ridge (c) Dropout (d) Momentum",2,0.5,MCQ,CO2,K1
+"Which optimizer uses momentum and adaptive learning rate? (a) SGD (b) RMSProp (c) Adam (d) Adagrad",2,0.5,MCQ,CO2,K1
+"Batch Normalization helps by (a) increasing bias (b) reducing internal covariate shift (c) increasing parameters (d) removing layers",2,0.5,MCQ,CO2,K1
+"Exploding gradients cause gradients to become (a) zero (b) constant (c) very large (d) negative",2,0.5,MCQ,CO2,K1
+"Which regularization can produce sparse weights? (a) L1 (b) L2 (c) Dropout (d) BatchNorm",2,0.5,MCQ,CO2,K1
+"Momentum in gradient descent helps to (a) reduce learning rate (b) avoid oscillations (c) increase loss (d) stop training",2,0.5,MCQ,CO2,K1
+"Which method randomly drops neurons during training? (a) L2 (b) Dropout (c) Adam (d) Momentum",2,0.5,MCQ,CO2,K1
+"Nesterov’s method differs by using (a) random update (b) lookahead gradient (c) larger batch (d) no momentum",2,0.5,MCQ,CO2,K2
+"Mini-batch gradient descent updates weights using (a) all samples (b) one sample (c) subset of samples (d) test data",2,0.5,MCQ,CO2,K2
+"Too high learning rate may cause (a) slow learning (b) convergence (c) divergence (d) regularization",2,0.5,MCQ,CO2,K2
+"Which technique improves generalization? (a) Overfitting (b) Regularization (c) Large epochs (d) High LR",2,0.5,MCQ,CO2,K2
+"The main purpose of convolution in CNN is to (a) classify images (b) extract features (c) reduce loss (d) normalize data",3,0.5,MCQ,CO3,K1
+"Which layer reduces spatial dimensions? (a) Convolution (b) Pooling (c) ReLU (d) Flatten",3,0.5,MCQ,CO3,K1
+"Which pooling takes maximum value? (a) Avg (b) Max (c) Sum (d) Median",3,0.5,MCQ,CO3,K1
+"Filters in CNN are also called (a) neurons (b) kernels (c) weights (d) nodes",3,0.5,MCQ,CO3,K1
+"Stride controls (a) filter size (b) filter movement (c) padding (d) channels",3,0.5,MCQ,CO3,K1
+"Padding is used to (a) reduce size (b) maintain size (c) increase loss (d) remove noise",3,0.5,MCQ,CO3,K1
+"Which activation is commonly used in CNNs? (a) Sigmoid (b) ReLU (c) Tanh (d) Step",3,0.5,MCQ,CO3,K1
+"Pooling layers have (a) many parameters (b) no parameters (c) few parameters (d) adaptive weights",3,0.5,MCQ,CO3,K1
+"Weight sharing reduces (a) accuracy (b) computation (c) parameters (d) depth",3,0.5,MCQ,CO3,K1
+"Which CNN model is pre-trained? (a) KNN (b) VGG16 (c) PCA (d) SVM",3,0.5,MCQ,CO3,K1
+"Flattening converts feature maps into (a) matrix (b) tensor (c) vector (d) image",3,0.5,MCQ,CO3,K1
+"1×1 convolution is used for (a) feature extraction (b) dimension reduction (c) pooling (d) padding",3,0.5,MCQ,CO3,K2
+"Deeper CNN layers capture (a) edges (b) textures (c) high-level features (d) noise",3,0.5,MCQ,CO3,K2
+"Transfer learning uses (a) random weights (b) pre-trained weights (c) no training (d) PCA",3,0.5,MCQ,CO3,K2
+"CNNs are best suited for (a) tabular data (b) sequence data (c) image data (d) graph data",3,0.5,MCQ,CO3,K2
+"RNNs are best suited for (a) image data (b) tabular data (c) sequence data (d) graph data",4,0.5,MCQ,CO4,K1
+"Which problem affects RNNs? (a) Overfitting (b) Vanishing gradient (c) Normalization (d) Dropout",4,0.5,MCQ,CO4,K1
+"LSTM is designed to overcome (a) overfitting (b) vanishing gradient (c) underfitting (d) normalization",4,0.5,MCQ,CO4,K1
+"Which gate decides what to forget in LSTM? (a) Input (b) Forget (c) Output (d) Update",4,0.5,MCQ,CO4,K1
+"GRU has (a) more gates than LSTM (b) fewer gates than LSTM (c) same gates (d) no gates",4,0.5,MCQ,CO4,K1
+"Autoencoders are trained using (a) supervised learning (b) unsupervised learning (c) reinforcement learning (d) transfer learning",4,0.5,MCQ,CO4,K1
+"A GAN consists of (a) encoder–decoder (b) generator–discriminator (c) CNN–RNN (d) actor–critic",4,0.5,MCQ,CO4,K1
+"Which component generates fake data in GAN? (a) Discriminator (b) Generator (c) Encoder (d) Decoder",4,0.5,MCQ,CO4,K1
+"VAEs introduce (a) determinism (b) sparsity (c) stochasticity (d) dropout",4,0.5,MCQ,CO4,K1
+"Encoder–Decoder models are used in (a) clustering (b) translation (c) regression (d) sorting",4,0.5,MCQ,CO4,K1
+"Hidden state in RNN acts as (a) memory (b) weight (c) bias (d) loss",4,0.5,MCQ,CO4,K1
+"GAN training is formulated as (a) minimization (b) classification (c) min–max game (d) clustering",4,0.5,MCQ,CO4,K2
+"BPTT stands for (a) Backpropagation Through Time (b) Batch Processing Time (c) Backward Transfer Tech (d) Bias Propagation",4,0.5,MCQ,CO4,K2
+"GRU merges input and forget gates into (a) output gate (b) update gate (c) reset gate (d) hidden gate",4,0.5,MCQ,CO4,K2
+"LSTMs are widely used in (a) image filtering (b) sequence modeling (c) clustering (d) PCA",4,0.5,MCQ,CO4,K2
+"Object detection identifies (a) class only (b) pixels only (c) class and location (d) color only",5,0.5,MCQ,CO5,K1
+"YOLO is a (a) two-stage detector (b) one-stage detector (c) classifier (d) segmenter",5,0.5,MCQ,CO5,K1
+"Semantic segmentation assigns labels to (a) objects (b) pixels (c) images (d) regions",5,0.5,MCQ,CO5,K1
+"Instance segmentation differs by identifying (a) pixels only (b) object instances (c) classes only (d) edges",5,0.5,MCQ,CO5,K1
+"Image captioning generates (a) labels (b) bounding boxes (c) text descriptions (d) masks",5,0.5,MCQ,CO5,K1
+"NER stands for (a) Neural Entity Recognition (b) Named Entity Recognition (c) Network Extraction Rule (d) Node Entity Relation",5,0.5,MCQ,CO5,K1
+"Sentiment analysis identifies (a) syntax (b) entities (c) emotion/opinion (d) grammar",5,0.5,MCQ,CO5,K1
+"Attention mechanism helps models focus on (a) all inputs equally (b) important parts (c) noise (d) gradients",5,0.5,MCQ,CO5,K1
+"Sentence classification assigns labels to (a) words (b) sentences (c) pixels (d) nodes",5,0.5,MCQ,CO5,K1
+"Recursive Neural Networks are suitable for (a) images (b) trees (c) graphs (d) tables",5,0.5,MCQ,CO5,K1
+"Video-to-text generation captures (a) spatial info only (b) temporal info (c) color info (d) noise",5,0.5,MCQ,CO5,K2
+"Transformers mainly rely on (a) CNNs (b) RNNs (c) attention (d) pooling",5,0.5,MCQ,CO5,K2
+"Opinion mining is another term for (a) parsing (b) translation (c) sentiment analysis (d) tagging",5,0.5,MCQ,CO5,K2
+"Dialogue systems mainly require (a) image modeling (b) sequence modeling (c) clustering (d) PCA",5,0.5,MCQ,CO5,K2
+"Multimodal learning combines (a) text only (b) image only (c) vision and language (d) audio only",5,0.5,MCQ,CO5,K2
+"A neuron computes a weighted sum of inputs before applying an activation function. Write True or False.",1,0.5,True_False,CO1,K1
+"A single-layer perceptron can solve non-linearly separable problems. Write True or False.",1,0.5,True_False,CO1,K1
+"Bias allows a neuron to activate even when all inputs are zero. Write True or False.",1,0.5,True_False,CO1,K1
+"Backpropagation is applicable only to single-layer neural networks. Write True or False.",1,0.5,True_False,CO1,K1
+"Feedforward neural networks do not contain cycles. Write True or False.",1,0.5,True_False,CO1,K1
+"Activation functions introduce non-linearity into neural networks. Write True or False.",1,0.5,True_False,CO1,K1
+"The learning rate determines how fast the weights are updated. Write True or False.",1,0.5,True_False,CO1,K1
+"The loss function evaluates the performance of a neural network. Write True or False.",1,0.5,True_False,CO1,K1
+"Gradient descent minimizes the loss function during training. Write True or False.",1,0.5,True_False,CO1,K1
+"A multi-layer perceptron can approximate complex non-linear functions. Write True or False.",1,0.5,True_False,CO1,K2
+"Gradient descent always converges to a global minimum. Write True or False.",2,0.5,True_False,CO2,K1
+"Vanishing gradient problem is more severe in deep neural networks. Write True or False.",2,0.5,True_False,CO2,K1
+"ReLU activation helps alleviate vanishing gradient issues. Write True or False.",2,0.5,True_False,CO2,K1
+"Dropout is applied during both training and inference phases. Write True or False.",2,0.5,True_False,CO2,K1
+"L1 regularization encourages sparsity in weight values. Write True or False.",2,0.5,True_False,CO2,K1
+"Batch Normalization reduces internal covariate shift. Write True or False.",2,0.5,True_False,CO2,K1
+"Exploding gradients can cause numerical instability. Write True or False.",2,0.5,True_False,CO2,K1
+"Momentum helps gradient descent converge faster. Write True or False.",2,0.5,True_False,CO2,K1
+"Adam optimizer uses adaptive learning rates. Write True or False.",2,0.5,True_False,CO2,K1
+"Regularization techniques improve generalization performance. Write True or False.",2,0.5,True_False,CO2,K2
+"Convolutional layers use local receptive fields. Write True or False.",3,0.5,True_False,CO3,K1
+"CNNs use shared weights to reduce the number of parameters. Write True or False.",3,0.5,True_False,CO3,K1
+"Pooling layers introduce trainable parameters. Write True or False.",3,0.5,True_False,CO3,K1
+"Padding helps control the spatial size of feature maps. Write True or False.",3,0.5,True_False,CO3,K1
+"Stride determines how the convolution filter moves across the input. Write True or False.",3,0.5,True_False,CO3,K1
+"Deeper CNN layers capture higher-level features. Write True or False.",3,0.5,True_False,CO3,K1
+"Flattening is required before fully connected layers. Write True or False.",3,0.5,True_False,CO3,K1
+"Transfer learning starts training from random weights. Write True or False.",3,0.5,True_False,CO3,K1
+"Max pooling provides translation invariance. Write True or False.",3,0.5,True_False,CO3,K1
+"ReLU is commonly used as activation in CNNs. Write True or False.",3,0.5,True_False,CO3,K2
+"RNNs process sequential data using shared parameters across time steps. Write True or False.",4,0.5,True_False,CO4,K1
+"Vanilla RNNs suffer from vanishing gradient problems. Write True or False.",4,0.5,True_False,CO4,K1
+"LSTM networks use gating mechanisms to control information flow. Write True or False.",4,0.5,True_False,CO4,K1
+"GRUs have more gates than LSTMs. Write True or False.",4,0.5,True_False,CO4,K1
+"Autoencoders are trained in an unsupervised manner. Write True or False.",4,0.5,True_False,CO4,K1
+"Denoising autoencoders learn to reconstruct clean inputs from noisy data. Write True or False.",4,0.5,True_False,CO4,K1
+"GANs consist of a generator and a discriminator. Write True or False.",4,0.5,True_False,CO4,K1
+"VAEs model latent variables probabilistically. Write True or False.",4,0.5,True_False,CO4,K1
+"Encoder–Decoder models are widely used in sequence-to-sequence tasks. Write True or False.",4,0.5,True_False,CO4,K1
+"Backpropagation Through Time is used to train RNNs. Write True or False.",4,0.5,True_False,CO4,K2
+"Object detection identifies both the class and location of objects. Write True or False.",5,0.5,True_False,CO5,K1
+"YOLO performs object detection in a single stage. Write True or False.",5,0.5,True_False,CO5,K1
+"Semantic segmentation assigns labels at the pixel level. Write True or False.",5,0.5,True_False,CO5,K1
+"Instance segmentation distinguishes between different objects of the same class. Write True or False.",5,0.5,True_False,CO5,K1
+"Image captioning combines computer vision and natural language processing. Write True or False.",5,0.5,True_False,CO5,K1
+"Named Entity Recognition identifies entities such as names and locations. Write True or False.",5,0.5,True_False,CO5,K1
+"Sentiment analysis focuses on syntactic structure only. Write True or False.",5,0.5,True_False,CO5,K1
+"Attention mechanisms help models focus on relevant input parts. Write True or False.",5,0.5,True_False,CO5,K1
+"Transformers rely primarily on attention mechanisms. Write True or False.",5,0.5,True_False,CO5,K1
+"Multimodal learning combines information from multiple data sources. Write True or False.",5,0.5,True_False,CO5,K2
+"Which optimizer maintains an exponentially decaying average of past squared gradients? (a) SGD (b) Momentum (c) RMSProp (d) Newton",2,0.5,MCQ,CO2,K2
+"Which regularization technique penalizes the absolute value of weights? (a) L1 (b) L2 (c) Dropout (d) BatchNorm",2,0.5,MCQ,CO2,K2
+"Which method helps escape shallow local minima? (a) Small learning rate (b) Momentum (c) Early stopping (d) Normalization",2,0.5,MCQ,CO2,K2
+"Batch Normalization is usually applied (a) before activation (b) after activation (c) after loss (d) at output only",2,0.5,MCQ,CO2,K2
+"Which issue is primarily addressed by gradient clipping? (a) Vanishing gradient (b) Exploding gradient (c) Overfitting (d) Bias",2,0.5,MCQ,CO2,K2
+"Gradient clipping is used to control exploding gradients.",2,0.5,True_False,CO2,K2
+"RMSProp adapts the learning rate for each parameter.",2,0.5,True_False,CO2,K2
+"Batch Normalization eliminates the need for regularization.",2,0.5,True_False,CO2,K2
+"L2 regularization discourages large weight values.",2,0.5,True_False,CO2,K2
+"Early stopping can be considered an implicit regularization technique.",2,0.5,True_False,CO2,K2
+"Which gate in LSTM controls how much new information is added to the cell state? (a) Forget (b) Input (c) Output (d) Reset",4,0.5,MCQ,CO4,K2
+"GRU combines forget and input gates into which gate? (a) Reset (b) Update (c) Output (d) Memory",4,0.5,MCQ,CO4,K2
+"In GAN training, instability mainly arises due to (a) Overfitting (b) Mode collapse (c) Vanishing gradients (d) Normalization",4,0.5,MCQ,CO4,K2
+"Which model explicitly learns a probability distribution in latent space? (a) Autoencoder (b) VAE (c) CNN (d) RNN",4,0.5,MCQ,CO4,K2
+"Backpropagation Through Time unfolds the network across (a) layers (b) batches (c) time steps (d) features",4,0.5,MCQ,CO4,K2
+"Which gate in LSTM controls how much new information is added to the cell state? (a) Forget (b) Input (c) Output (d) Reset",4,0.5,MCQ,CO4,K2
+"GRU combines forget and input gates into which gate? (a) Reset (b) Update (c) Output (d) Memory",4,0.5,MCQ,CO4,K2
+"In GAN training, instability mainly arises due to (a) Overfitting (b) Mode collapse (c) Vanishing gradients (d) Normalization",4,0.5,MCQ,CO4,K2
+"Which model explicitly learns a probability distribution in latent space? (a) Autoencoder (b) VAE (c) CNN (d) RNN",4,0.5,MCQ,CO4,K2
+"Backpropagation Through Time unfolds the network across (a) layers (b) batches (c) time steps (d) features",4,0.5,MCQ,CO4,K2
