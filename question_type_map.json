@@ -1,0 +1,11 @@
+{
+    "Short": "SHORT",
+    "Short Answer": "SHORT",
+    "MCQ": "MCQ",
+    "Multiple Choice": "MCQ",
+    "Fill in the Blank": "FILL_BLANK",
+    "True or False": "TRUE_FALSE",
+    "Essay": "ESSAY",
+    "Very Long": "VERY_LONG",
+    "Descriptive": "DESCRIPTIVE"
+}
